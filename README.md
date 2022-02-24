@@ -11,6 +11,7 @@ ea0212d3-abd6-406f-8c67-868e814a2436
 link : postman `https://documenter.getpostman.com/view/8411283/SVfMSqA3?version=latest#99bca41f-ecf6-4dee-a44d-154d2f8f4096`
 
 for the route that uses token i use jwt, so the format is Authorization: Bearer
+<br>
 `example`
 ```
 curl --location --request POST 'localhost:8080/api/v1/wallet' \
